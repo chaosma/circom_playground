@@ -1,0 +1,13 @@
+.DS_Store
+circomlib/
+input.json
+input.template
+*.ptau
+setup_once.sh
+*.r1cs
+*.sym
+*.zkey
+*.zkey
+/*_js/
+*.json
+*.wtns
